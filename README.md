@@ -1,7 +1,6 @@
 [![DOI](https://zenodo.org/badge/122105084.svg)](https://zenodo.org/badge/latestdoi/122105084)
 
 # Sign-Language
-A very simple CNN project.
 
 ## Note
 Simple-OpenCV-Calculator and this project are merged to one. Simple-OpenCV-Calculator will no longer be maintained.
@@ -16,7 +15,7 @@ Simple-OpenCV-Calculator and this project are merged to one. Simple-OpenCV-Calcu
 There are a lot of details that I left. But these are the basic and main steps.
 
 ## Outcome
-Watch it <a href="https://youtu.be/JNZ7oFaH1fg">here</a>.
+Watch it <a href="https://www.youtube.com/watch?v=gUOWQP7Wmjg">here</a>.
 
 ## Requirements
 0. Python 3.x
@@ -144,7 +143,4 @@ Here is where you will have all the fun.
 
 
 # Got a question?
-If you have any questions that are bothering you please contact me on my <a href = "http://www.facebook.com/dibakar.saha.750">facebook profile</a>. Just do not ask me questions like where do I live, who do I work for etc. Also no questions like what does this line do. If you think a line is redundant or can be removed to make the program better then you can obviously ask me or make a pull request.
-
-# How to cite 
-Saha, D.. (2018, May 9). Sign-Language (Version 1). figshare. https://doi.org/10.6084/m9.figshare.6241901.v1A very simple CNN project.
+If you have any questions that are bothering you please contact me on my <a href = "http://www.facebook.com/deepanshu.udhwani">facebook profile</a>. Just do not ask me questions like where do I live, who do I work for etc. Also no questions like what does this line do. If you think a line is redundant or can be removed to make the program better then you can obviously ask me or make a pull request.
