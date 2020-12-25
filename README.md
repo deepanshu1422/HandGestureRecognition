@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/122105084.svg)](https://zenodo.org/badge/latestdoi/122105084)
+
 
 # Sign-Language
 
@@ -14,8 +14,6 @@ Simple-OpenCV-Calculator and this project are merged to one. Simple-OpenCV-Calcu
 
 There are a lot of details that I left. But these are the basic and main steps.
 
-## Outcome
-Watch it <a href="https://www.youtube.com/watch?v=gUOWQP7Wmjg">here</a>.
 
 ## Requirements
 0. Python 3.x
